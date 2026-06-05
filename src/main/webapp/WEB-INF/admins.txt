@@ -1,0 +1,5 @@
+sample,sample,sample@gmail.com,123,SUPER_ADMIN,true
+admin,admin,admin@gmail.com,123,SUPER_ADMIN,true
+test,test,test@gmail.com,123,ADMIN,true
+IT24100791,IT24100791,IT24100791@my.sliit.lk,12345,SUPER_ADMIN,true
+tino,tino,tin@gmail.com,123,ADMIN,true
