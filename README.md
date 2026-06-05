@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Toy Store
 
 One unified toy store application with a single user flow.
@@ -31,3 +32,6 @@ Open **http://localhost:8080/**
 ```powershell
 .\mvnw.cmd clean package
 ```
+=======
+# Toy-Store
+>>>>>>> 8f05768df23fc04207f86e7fa75f1b51e7cee563
