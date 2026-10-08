@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Online Toy Store
 
 One unified toy store application with a single user flow.
